@@ -1,5 +1,6 @@
 ﻿namespace FoodDelivery.Migrations
 {
+    using FoodDelivery.Model;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
@@ -18,6 +19,20 @@
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method
             //  to avoid creating duplicate seed data.
+            
+            if (!context.DishTypes.Any())
+            {
+                context.DishTypes.AddOrUpdate(
+                    x => x.TypeName,
+                    new DishType { TypeName = "Предястие" },
+                    new DishType { TypeName = "Основно" },
+                    new DishType { TypeName = "Супи" },
+                    new DishType { TypeName = "Десерти" },
+                    new DishType { TypeName = "Аламинути" }
+                );
+
+                context.SaveChanges();
+            }
         }
     }
 }
