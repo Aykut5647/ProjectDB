@@ -8,8 +8,10 @@ namespace FoodDelivery.Model
 {
     public class DishType
     {
-        public int Id { get; set; }
+        public int Id { get; set; } //PK
         public string TypeName { get; set; }
-        public ICollection<Dish> Dishes { get; set; }
+
+        // 1 : M Връзка
+        public ICollection<Dish> Dishes { get; set; } 
     }
 }
