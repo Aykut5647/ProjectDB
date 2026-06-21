@@ -13,7 +13,7 @@ using System.Xml.Linq;
 
 namespace FoodDelivery
 {
-    public partial class Form1 : Form
+    public partial class Form1 : System.Windows.Forms.Form
     {
         DishesController controller = new DishesController();
         int selectedId = 0;
