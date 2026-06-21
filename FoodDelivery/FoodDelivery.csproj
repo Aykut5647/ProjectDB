@@ -109,6 +109,21 @@
   <ItemGroup>
     <None Include="Resources\ChatGPT Image 19.06.2026 г., 20_23_21.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9417083.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 21.06.2026 г., 20_53_55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 21.06.2026 г., 20_53_551.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 19.06.2026 г., 20_23_211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5893455434272673184.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

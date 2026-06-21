@@ -63,9 +63,59 @@ namespace FoodDelivery.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _5893455434272673184 {
+            get {
+                object obj = ResourceManager.GetObject("5893455434272673184", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9417083 {
+            get {
+                object obj = ResourceManager.GetObject("9417083", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ChatGPT_Image_19_06_2026_г___20_23_21 {
             get {
                 object obj = ResourceManager.GetObject("ChatGPT Image 19.06.2026 г., 20_23_21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ChatGPT_Image_19_06_2026_г1 {
+            get {
+                object obj = ResourceManager.GetObject("ChatGPT Image 19.06.2026 г1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ChatGPT_Image_21_06_2026_г___20_53_55 {
+            get {
+                object obj = ResourceManager.GetObject("ChatGPT Image 21.06.2026 г., 20_53_55", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ChatGPT_Image_21_06_2026_г1 {
+            get {
+                object obj = ResourceManager.GetObject("ChatGPT Image 21.06.2026 г1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
