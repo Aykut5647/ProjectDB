@@ -13,10 +13,13 @@ using System.Xml.Linq;
 
 namespace FoodDelivery
 {
+
     public partial class Form1 : System.Windows.Forms.Form
     {
+
         DishesController controller = new DishesController();
         int selectedId = 0;
+
         public Form1()
         {
             InitializeComponent();
@@ -24,7 +27,7 @@ namespace FoodDelivery
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+
             LoadDishTypes();
             LoadDishes();
         }
@@ -53,6 +56,17 @@ namespace FoodDelivery
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrWhiteSpace(txtName.Text))
+            {
+                MessageBox.Show("Въведете име на ястие!");
+                return;
+            }
+
+            if (string.IsNullOrWhiteSpace(txtPrice.Text))
+            {
+                MessageBox.Show("Въведете цена!");
+                return;
+            }
             Dish dish = new Dish();
 
             dish.Name = txtName.Text;
@@ -103,6 +117,19 @@ namespace FoodDelivery
 
         private void btnEdit_Click(object sender, EventArgs e)
         {
+            decimal price;
+            if (!decimal.TryParse(txtPrice.Text, out price))
+            {
+                MessageBox.Show("Невалидна цена!");
+                return;
+            }
+
+            double grammage;
+            if (!double.TryParse(txtGrammage.Text, out grammage))
+            {
+                MessageBox.Show("Невалиден грамаж!");
+                return;
+            }
             Dish dish = new Dish();
 
             dish.Id = selectedId;
@@ -135,7 +162,9 @@ namespace FoodDelivery
 
         private void cmbDishType_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+
         }
     }
 }
+
+

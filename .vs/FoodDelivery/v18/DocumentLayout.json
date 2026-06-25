@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|C:\\Users\\aykut\\source\\repos\\ProjectDB\\fooddelivery\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|c:\\users\\aykut\\source\\repos\\projectdb\\fooddelivery\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|C:\\Users\\aykut\\source\\repos\\ProjectDB\\fooddelivery\\controller\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\controller\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|C:\\Users\\aykut\\source\\repos\\ProjectDB\\fooddelivery\\model\\dishtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\model\\dishtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|c:\\users\\aykut\\source\\repos\\projectdb\\fooddelivery\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|C:\\Users\\aykut\\source\\repos\\ProjectDB\\fooddelivery\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|C:\\Users\\aykut\\source\\repos\\ProjectDB\\fooddelivery\\model\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\model\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|C:\\Users\\aykut\\source\\repos\\ProjectDB\\fooddelivery\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4230D26E-F83B-4BC6-AD1B-0FA1B2AD675B}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\App.config",
+              "RelativeDocumentMoniker": "FoodDelivery\\App.config",
+              "ToolTip": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\App.config",
+              "RelativeToolTip": "FoodDelivery\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-25T03:06:43.716Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -46,58 +59,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DishType.cs",
-              "DocumentMoniker": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Model\\DishType.cs",
-              "RelativeDocumentMoniker": "FoodDelivery\\Model\\DishType.cs",
-              "ToolTip": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Model\\DishType.cs",
-              "RelativeToolTip": "FoodDelivery\\Model\\DishType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T19:30:46.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DishesController.cs",
               "DocumentMoniker": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Controller\\DishesController.cs",
               "RelativeDocumentMoniker": "FoodDelivery\\Controller\\DishesController.cs",
               "ToolTip": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Controller\\DishesController.cs",
               "RelativeToolTip": "FoodDelivery\\Controller\\DishesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T15:56:18.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dish.cs",
-              "DocumentMoniker": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Model\\Dish.cs",
-              "RelativeDocumentMoniker": "FoodDelivery\\Model\\Dish.cs",
-              "ToolTip": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Model\\Dish.cs",
-              "RelativeToolTip": "FoodDelivery\\Model\\Dish.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T14:27:48.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Form1.cs",
               "RelativeDocumentMoniker": "FoodDelivery\\Form1.cs",
               "ToolTip": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Form1.cs",
               "RelativeToolTip": "FoodDelivery\\Form1.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwKUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T12:22:31.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aykut\\source\\repos\\ProjectDB\\FoodDelivery\\Form1.cs",
               "RelativeDocumentMoniker": "FoodDelivery\\Form1.cs",
